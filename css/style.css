@@ -1,1 +1,14 @@
 /* add CSS class and element and selectors here */
+
+body {
+  font-size: 100%;
+  background-color: #ECD0FF
+}
+
+.destSampleClass{font-size: 200%;
+border: 10px dotted #ECD0FF;
+background-color:#FF7A96;
+font-family: cursive;Florence;
+  
+}
+
